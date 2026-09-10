@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Business portfolio and affiliate product showcase">
+<title>JehuLux</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="header">
+  <a class="logo" href="#home">JehuLux</a>
+  <button class="menu-btn" id="menuBtn">☰</button>
+  <nav id="nav">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<main>
+<section class="hero" id="home">
+  <img id="profilePhoto" class="profile-photo" alt="Profile picture">
+  <p class="eyebrow">WELCOME</p>
+  <h1 id="heroTitle"></h1>
+  <p id="heroDescription"></p>
+  <a class="btn" href="#products">View Products</a>
+</section>
+
+
+<section class="section" id="about">
+  <p class="eyebrow">ABOUT</p><h2 id="aboutTitle"></h2><p id="aboutText" class="section-text"></p>
+</section>
+
+
+<section class="section" id="products">
+  <p class="eyebrow">RECOMMENDATIONS</p><h2>Featured Products</h2>
+  <p class="section-text">Browse the recommended items below and click the button to view or purchase them from the original store.</p>
+  <input class="search" id="productSearch" type="search" placeholder="Search products...">
+  <div class="filters" id="filters"></div>
+  <div class="grid products-grid" id="productGrid"></div>
+  <p class="disclosure" id="affiliateDisclosure"></p>
+</section>
+
+<section class="section contact" id="contact">
+  <p class="eyebrow">CONTACT</p><h2>Let's Connect</h2>
+  <p id="contactText" class="section-text"></p><div id="socialLinks"></div>
+</section>
+</main>
+
+<footer><span id="footerText"></span><span><a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></span></footer>
+
+<div class="modal" id="imageModal">
+  <button class="modal-close" id="closeModal">×</button>
+  <img id="modalImage" alt=""><p id="modalCaption"></p>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
