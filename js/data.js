@@ -462,6 +462,31 @@ const siteData = {
         ],
         
       link: "https://onelink.shein.com/52/61njg03aoab7?ismg_ol=DN9IznWJ6EX_01_KOC-C"
+    },
+    {
+      name: "79pcs/Set Maillard Hair Accessories Set: Large Matte Claw Clips, Silk Satin",
+      description: "79pcs/Set Maillard Hair Accessories Set: Large Matte Claw Clips, Silk Satin Scrunchies & Seamless Elastic Ties, Versatile Earth Tone Headwear For Women 700+ sold 🎁60% OFF COUPON for every New User!",
+      price: "$3.00",
+      category: "Accessories",
+            
+               // PRODUCT BADGE
+    badge: "#1 Best Seller",
+
+    // RATING
+    rating: 5.0,
+    reviews: 700,
+
+    // DISCOUNT
+    originalPrice: "$3.40",
+    discount: "-12%",
+      
+      images: [
+        "assets/acc.jpg",
+        
+        
+        ],
+        
+      link: "https://onelink.shein.com/52/61nkhvhnhhxu?ismg_ol=23cX6pZRgiR_01_KOC-C"
     }
   ]
 };
