@@ -434,6 +434,34 @@ const siteData = {
         ],
         
       link: "https://onelink.shein.com/52/61lm66y0p2gs?ismg_ol=GcGiF8cneY1_01_KOC-C"
+    },
+    {
+      name: "2026 New Retro Suede Sneakers Women, Blue White Casual Lace-Up Trainers, Comfortable Non-Slip Chunky",
+      description: "2026 New Retro Suede Sneakers Women, Blue White Casual Lace-Up Trainers, Comfortable Non-Slip Chunky Sole Running Shoes 100+ sold 🎁60% OFF COUPON for every New User!",
+      price: "$9.90",
+      category: "Women's Outfits",
+            
+               // PRODUCT BADGE
+    badge: "#1 Best Seller",
+
+    // RATING
+    rating: 4.9,
+    reviews: 500,
+
+    // DISCOUNT
+    originalPrice: "$20.00",
+    discount: "-51%",
+      
+      images: [
+        "assets/A.jpg",
+        "assets/A1.jpg",
+        "assets/A2.jpg",
+        "assets/A3.jpg",
+        "assets/A4.jpg"
+        
+        ],
+        
+      link: "https://onelink.shein.com/52/61njg03aoab7?ismg_ol=DN9IznWJ6EX_01_KOC-C"
     }
   ]
 };
