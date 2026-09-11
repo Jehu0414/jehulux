@@ -513,6 +513,33 @@ const siteData = {
         ],
         
       link: "https://onelink.shein.com/52/61nl1bxmhohl?ismg_ol=8p3ejcM1EPs_01_KOC-C"
+    },
+    {
+      name: "Fruit of the Loom Classic & Soft Premium TShirt for Men & Women 100% Cotton Men's Plain Tees Neutral",
+      description: "Fruit of the Loom Classic & Soft Premium TShirt for Men & Women 100% Cotton Men's Plain Tees Neutral 1000+ sold 🎁60% OFF COUPON for every New User!",
+      price: "₱199",
+      category: "Men's Outfits",
+            
+               // PRODUCT BADGE
+    badge: "#1 Best Seller",
+
+    // RATING
+    rating: 5.0,
+    reviews: 10000,
+
+    // DISCOUNT
+    originalPrice: "₱399",
+    discount: "-50%",
+      
+      images: [
+        "assets/fruit.jpg",
+        "assets/fruit1.jpg",
+        "assets/fruit2.jpg"
+        
+        
+        ],
+        
+      link: "https://s.shopee.ph/60RVMHCxew"
     }
   ]
 };
