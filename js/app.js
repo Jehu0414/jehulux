@@ -12,7 +12,7 @@ function safeUrl(value) {
 }
 
 function render() {
-  document.title = `${siteData.businessName} | Portfolio`;
+  document.title = `${siteData.businessName} | Shop`;
 
   $("#profilePhoto").src = safeUrl(siteData.profilePhoto);
   $("#profilePhoto").alt = `${siteData.businessName} profile picture`;

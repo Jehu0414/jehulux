@@ -487,6 +487,32 @@ const siteData = {
         ],
         
       link: "https://onelink.shein.com/52/61nkhvhnhhxu?ismg_ol=23cX6pZRgiR_01_KOC-C"
+    },
+    {
+      name: "10pcs Y2K Style 3D Monkey Spiral Pattern Pink & Yellow Contrast Color",
+      description: "10pcs Y2K Style 3D Monkey Spiral Pattern Pink & Yellow Contrast Color Flower & Star Acrylic Nail Tips, Medium Almond Shape Press-On Fake Nails, Suitable For Girls And Women Daily Commute, Date And Party Manicure 600+ sold 🎁60% OFF COUPON for every New User!",
+      price: "$1.85",
+      category: "Accessories",
+            
+               // PRODUCT BADGE
+    badge: "#2 Best Seller",
+
+    // RATING
+    rating: 4.9,
+    reviews: 600,
+
+    // DISCOUNT
+    originalPrice: "$2.10",
+    discount: "-12%",
+      
+      images: [
+        "assets/nail.jpg",
+        "assets/nail1.jpg",
+        "assets/nail2.jpg"
+        
+        ],
+        
+      link: "https://onelink.shein.com/52/61nl1bxmhohl?ismg_ol=8p3ejcM1EPs_01_KOC-C"
     }
   ]
 };
